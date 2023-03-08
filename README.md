@@ -12,16 +12,12 @@ Users should be able to do the following in the Web App:
     * Upload an image.
 
     * Pre-process the image for the deep learning model.
-### Good to Have
-
-Dockerize the solution and deploy using docker-compose
 
     * Predict the class of the uploaded image using the pre-trained model.
 
     * View the predicted class label and probability.
 
 Justify the selection of the pre-trained model to the Hackthon panel. Briefly describe the dataset it was trained on, the architecture of the model, and the type of problem it was designed to solve.
-
 
 ### Good to Have
 
