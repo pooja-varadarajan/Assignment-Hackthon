@@ -1,6 +1,6 @@
-# Assignment 1 (Pick One):
+# Assignment 1 (Pick one A or B):
 
-## Developing a Web Application with Pre-Trained Deep Learning Model for Computer Vision
+## A: Developing a Web Application with Pre-Trained Deep Learning Model for Computer Vision
 
 ### Overview:
 In this assignment, you will be developing a web application that integrates a pre-trained deep learning model for image recognition.
@@ -32,7 +32,7 @@ Dockerize the solution and deploy using docker-compose
  * Submit the source code for the web application.
  * Submit a brief report explaining your model selection justification.
 
-## Developing a Web Application with Pre-Trained Deep Learning Model for Natural Language Processing
+## B: Developing a Web Application with Pre-Trained Deep Learning Model for Natural Language Processing
 
 ### Overview:
 In this assignment, you will be developing a web application that integrates a pre-trained deep learning model for natural language processing (NLP).
