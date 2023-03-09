@@ -46,4 +46,5 @@ with torch.no_grad():
     test_loss = criterion(test_outputs, test_labels)
     print("Test Loss: {}".format(test_loss.item()))
 
-assert c2f(0) == net(torch.tensor(0, dtype=torch.float32)).item(), Exception("Model didn't learn the parameters")
+assert c2f(0.0) == net(torch.tensor(0.0, dtype=torch.float32)).item(), "Model didn't learn the parameters"
+
